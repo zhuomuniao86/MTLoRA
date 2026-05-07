@@ -3,7 +3,7 @@
 Welcome to MTLoRA.
 
 **Matrix-Transformation Based Low-Rank Adaptation (MTLoRA): A Brain-Inspired Method for Parameter-Efficient Fine-Tuning** <br>
-*Yao Liang, Yuwei Wang, Yi Zeng* <br>
+*Yao Liang, Yuwei Wang, Yang Li,Yi Zeng* <br>
 Paper: https://arxiv.org/abs/2403.07440 <br>
 
 This paper explores the enhancement of fine-tuning techniques in Large Pretrained Language Models (LPLMs), crucial for improving performance across various tasks while efficiently managing computational resources. Our proposed method, MTLoRA, introduces a novel reparameterization approach inspired by the brain's geometric structure, applying a transformation matrix to adjust the task-specific parameter matrix. This innovation aims to mimic the brain's geometric structural influence on functionality, thereby boosting model performance in downstream tasks. Our evaluations demonstrate notable improvements in both Natural Language Understanding and Generation tasks.
@@ -215,6 +215,7 @@ Please contact us or post an issue if you have any questions.
 
 * Yao Liang (liangyao2023@edwardjhu.com)
 * Yuwei Wang (yuwei.wang@ia.ac.cn)
+* Yang Li (liyang2019@ia.ac.cn)
 * Yi Zeng (yi.zeng@ia.ac.cn)
 
 ## Acknowledgements
